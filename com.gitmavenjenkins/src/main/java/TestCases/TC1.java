@@ -64,6 +64,7 @@ public class TC1
 		driver.quit();
 		System.out.println("Firefox quit");
 		System.out.println("Firefox Close");
+		System.out.println("Firefox Close......");
 	   
 	}
 
